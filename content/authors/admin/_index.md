@@ -6,8 +6,7 @@ title: Ammar Abdalrahem (عمار)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Ammar
-last_name: Abdalrahem
+
 
 # Status emoji
 status:
