@@ -30,15 +30,15 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Ammar Abdalrahem
 
 tags:
   - Academic
-  - 开源
+  - Ammar Abdalrahem
 
 categories:
   - Demo
-  - 教程
+  - Ammar Abdalrahem
 ---
 
 ```python
