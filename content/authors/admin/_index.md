@@ -3,7 +3,7 @@
 title: Ammar Abdalrahem (عمار)
 
 # Name pronunciation (optional)
-name_pronunciation: Ammar Abdalrahem
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ammar
