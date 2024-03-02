@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ammar Abdalrahem (عمار)
+title: Ammar Abdalrahem (‏عمار عبد الرحيم)
 
 # Name pronunciation (optional)
 name_pronunciation: 
